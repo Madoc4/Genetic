@@ -53,11 +53,6 @@ class Species(pygame.sprite.Sprite):
         self.mutation_prob = .1
         self.death_reason = ''
 
-    def mutate(self, child):
-        attribute_to_mutate = random.choice(["speed", "food_requirement", "water_requirement"])
-        mutation_amount = random.uniform(-5, 5)
-        setattr(child, attribute_to_mutate, getattr(child, attribute_to_mutate) + mutation_amount)
-
    
     def hunt(self, other, generation):
         if math.sqrt((self.x - other.x) ** 2 + (self.y - other.y) ** 2) < 25 and generation > self.last_hunt + 2:
@@ -68,7 +63,12 @@ class Species(pygame.sprite.Sprite):
             other.dead = True
             other.death_reason='hunted'
 
+    def mutate(self, child):
+        attribute_to_mutate = random.choice(["speed", "food_requirement", "water_requirement"])
+        mutation_amount = random.uniform(-5, 5)
+        setattr(child, attribute_to_mutate, getattr(child, attribute_to_mutate) + mutation_amount)
 
+    
     def can_reproduce(self, generation):
         return self.age > self.last_reproduce and self.food > self.food_requirement and self.water > self.water_requirement
 
