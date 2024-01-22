@@ -55,6 +55,9 @@ def main():
     buttons = [gen_button, num_species, quit_button]
     species_by_gen = {}
     species_by_gen[generation] = master
+
+    alive_at_end = {1: initial_count}
+
     while running:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
@@ -106,12 +109,13 @@ def main():
             generation += 1
             gen_button.text = f'Generation {generation}'
             gen_button.render_text()
-
+            alive_at_end[generation] = len(species)
             for s in species:
                 s.age += 1
             nutrients += create_nutrients(20 - len(nutrients), SCREEN_WIDTH, SCREEN_HEIGHT)
 
         if len(species) == 0:
+            alive_at_end[generation] = 0
             dead_button = Button('All species died', SCREEN_WIDTH/2 - 50, SCREEN_HEIGHT/2 - 50, 'freesansbold.ttf', 15, (255, 255, 255), False)
             num_species.text = f'Num species: {len(species)}'
             num_species.render_text()
@@ -134,6 +138,10 @@ def main():
                 if s.gen == g:
                     f.write(f'{s}\n')
             f.write('\n\n')
+    
+    with open('population_by_gen.txt', 'w') as f:
+        for g in alive_at_end:
+            f.write(f'Generation {g}: {alive_at_end[g]}\n')
     pygame.quit()
 
 if __name__ == "__main__":

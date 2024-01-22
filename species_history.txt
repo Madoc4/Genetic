@@ -1,16 +1,16 @@
-Total generations: 45 
+Total generations: 60 
 
 Generation 1:
-Species with starting size 17 and ending size 48.25. Generation 1. Lived 9 generations. Died: True. starvation
-Species with starting size 15 and ending size 21.75. Generation 1. Lived 15 generations. Died: True. starvation
-Species with starting size 15 and ending size 18.75. Generation 1. Lived 7 generations. Died: True. hunted
-Species with starting size 10 and ending size 56.0. Generation 1. Lived 45 generations. Died: False. 
-Species with starting size 10 and ending size 34.75. Generation 1. Lived 40 generations. Died: True. starvation
-Species with starting size 7 and ending size 14.0. Generation 1. Lived 6 generations. Died: True. hunted
-Species with starting size 17 and ending size 21.5. Generation 1. Lived 10 generations. Died: True. starvation
-Species with starting size 20 and ending size 21.0. Generation 1. Lived 4 generations. Died: True. starvation
-Species with starting size 5 and ending size 8.5. Generation 1. Lived 4 generations. Died: True. hunted
-Species with starting size 7 and ending size 12.25. Generation 1. Lived 6 generations. Died: True. hunted
+Species with starting size 13 and ending size 16.75. Generation 1. Lived 11 generations. Died: True. starvation
+Species with starting size 8 and ending size 9.0. Generation 1. Lived 2 generations. Died: True. hunted
+Species with starting size 13 and ending size 19.25. Generation 1. Lived 21 generations. Died: True. starvation
+Species with starting size 8 and ending size 25.0. Generation 1. Lived 60 generations. Died: False. 
+Species with starting size 10 and ending size 17.25. Generation 1. Lived 36 generations. Died: True. starvation
+Species with starting size 17 and ending size 24.0. Generation 1. Lived 6 generations. Died: True. starvation
+Species with starting size 11 and ending size 24.5. Generation 1. Lived 56 generations. Died: True. starvation
+Species with starting size 14 and ending size 20.0. Generation 1. Lived 20 generations. Died: True. starvation
+Species with starting size 19 and ending size 19.75. Generation 1. Lived 3 generations. Died: True. starvation
+Species with starting size 5 and ending size 30.75. Generation 1. Lived 60 generations. Died: False. 
 
 
 Generation 2:
@@ -20,194 +20,373 @@ Generation 3:
 
 
 Generation 4:
-Species with starting size 19 and ending size 16.85. Generation 4. Lived 12 generations. Died: True. starvation
-Species with starting size 7 and ending size 20.25. Generation 4. Lived 5 generations. Died: True. starvation
-Species with starting size 12 and ending size 19.25. Generation 4. Lived 11 generations. Died: True. starvation
+Species with starting size 16 and ending size 34.6. Generation 4. Lived 57 generations. Died: False. 
+Species with starting size 16 and ending size 17.75. Generation 4. Lived 19 generations. Died: True. starvation
 
 
 Generation 5:
-Species with starting size 10 and ending size 21.0. Generation 5. Lived 12 generations. Died: True. starvation
-Species with starting size 6 and ending size 29.549999999999997. Generation 5. Lived 24 generations. Died: True. starvation
-Species with starting size 6 and ending size 20.25. Generation 5. Lived 7 generations. Died: True. starvation
+Species with starting size 5 and ending size 23.25. Generation 5. Lived 40 generations. Died: True. starvation
+Species with starting size 12 and ending size 18.95. Generation 5. Lived 17 generations. Died: True. starvation
+Species with starting size 5 and ending size 18.9. Generation 5. Lived 15 generations. Died: True. starvation
 
 
 Generation 6:
-Species with starting size 17 and ending size 19.7. Generation 6. Lived 11 generations. Died: True. starvation
-Species with starting size 19 and ending size 39.0. Generation 6. Lived 35 generations. Died: True. starvation
-Species with starting size 12 and ending size 21.25. Generation 6. Lived 4 generations. Died: True. starvation
+Species with starting size 11 and ending size 19.1. Generation 6. Lived 15 generations. Died: True. starvation
+Species with starting size 16 and ending size 19.4. Generation 6. Lived 20 generations. Died: True. starvation
+Species with starting size 12 and ending size 15.899999999999999. Generation 6. Lived 7 generations. Died: True. starvation
 
 
 Generation 7:
-Species with starting size 14 and ending size 20.85. Generation 7. Lived 5 generations. Died: True. starvation
-Species with starting size 12 and ending size 21.7. Generation 7. Lived 10 generations. Died: True. starvation
-Species with starting size 10 and ending size 22.75. Generation 7. Lived 8 generations. Died: True. starvation
+Species with starting size 12 and ending size 15.85. Generation 7. Lived 6 generations. Died: True. starvation
+Species with starting size 19 and ending size 21.35. Generation 7. Lived 17 generations. Died: True. starvation
+Species with starting size 19 and ending size 27.0. Generation 7. Lived 53 generations. Died: True. starvation
+Species with starting size 13 and ending size 16.0. Generation 7. Lived 10 generations. Died: True. starvation
 
 
 Generation 8:
-Species with starting size 6 and ending size 26.46. Generation 8. Lived 21 generations. Died: True. starvation
-Species with starting size 20 and ending size 21.0. Generation 8. Lived 6 generations. Died: True. starvation
-Species with starting size 10 and ending size 22.85. Generation 8. Lived 10 generations. Died: True. starvation
+Species with starting size 16 and ending size 17.35. Generation 8. Lived 14 generations. Died: True. starvation
+Species with starting size 5 and ending size 18.65. Generation 8. Lived 5 generations. Died: True. starvation
+Species with starting size 20 and ending size 22.619999999999997. Generation 8. Lived 39 generations. Died: True. starvation
+Species with starting size 9 and ending size 18.009999999999998. Generation 8. Lived 10 generations. Died: True. starvation
 
 
 Generation 9:
-Species with starting size 16 and ending size 19.5. Generation 9. Lived 9 generations. Died: True. starvation
-Species with starting size 5 and ending size 22.25. Generation 9. Lived 7 generations. Died: True. starvation
+Species with starting size 14 and ending size 19.15. Generation 9. Lived 18 generations. Died: True. starvation
+Species with starting size 5 and ending size 18.6. Generation 9. Lived 6 generations. Died: True. starvation
+Species with starting size 7 and ending size 24.37. Generation 9. Lived 37 generations. Died: True. starvation
+Species with starting size 18 and ending size 18.45. Generation 9. Lived 28 generations. Died: True. starvation
 
 
 Generation 10:
-Species with starting size 11 and ending size 20.709999999999997. Generation 10. Lived 6 generations. Died: True. starvation
-Species with starting size 8 and ending size 23.08. Generation 10. Lived 10 generations. Died: True. starvation
+Species with starting size 7 and ending size 19.19. Generation 10. Lived 6 generations. Died: True. starvation
+Species with starting size 5 and ending size 22.11. Generation 10. Lived 31 generations. Died: True. starvation
+Species with starting size 13 and ending size 17.6. Generation 10. Lived 15 generations. Died: True. starvation
+Species with starting size 17 and ending size 16.64. Generation 10. Lived 11 generations. Died: True. starvation
+Species with starting size 17 and ending size 22.19. Generation 10. Lived 18 generations. Died: True. starvation
 
 
 Generation 11:
-Species with starting size 14 and ending size 21.95. Generation 11. Lived 7 generations. Died: True. starvation
-Species with starting size 12 and ending size 19.95. Generation 11. Lived 4 generations. Died: True. starvation
-Species with starting size 14 and ending size 32.525999999999996. Generation 11. Lived 23 generations. Died: True. starvation
+Species with starting size 14 and ending size 19.75. Generation 11. Lived 9 generations. Died: True. starvation
+Species with starting size 10 and ending size 18.0. Generation 11. Lived 16 generations. Died: True. starvation
+Species with starting size 17 and ending size 18.997999999999998. Generation 11. Lived 20 generations. Died: True. starvation
+Species with starting size 17 and ending size 20.060000000000002. Generation 11. Lived 29 generations. Died: True. starvation
 
 
 Generation 12:
-Species with starting size 12 and ending size 22.25. Generation 12. Lived 6 generations. Died: True. starvation
-Species with starting size 17 and ending size 23.0. Generation 12. Lived 7 generations. Died: True. starvation
+Species with starting size 9 and ending size 22.08. Generation 12. Lived 37 generations. Died: True. starvation
+Species with starting size 18 and ending size 19.259999999999998. Generation 12. Lived 19 generations. Died: True. starvation
+Species with starting size 11 and ending size 20.604. Generation 12. Lived 26 generations. Died: True. starvation
+Species with starting size 6 and ending size 19.948. Generation 12. Lived 8 generations. Died: True. starvation
 
 
 Generation 13:
-Species with starting size 6 and ending size 19.65. Generation 13. Lived 3 generations. Died: True. starvation
-Species with starting size 6 and ending size 20. Generation 13. Lived 3 generations. Died: True. starvation
-Species with starting size 15 and ending size 17.39. Generation 13. Lived 4 generations. Died: True. starvation
+Species with starting size 5 and ending size 19.526. Generation 13. Lived 8 generations. Died: True. starvation
+Species with starting size 14 and ending size 18.354. Generation 13. Lived 8 generations. Died: True. starvation
+Species with starting size 8 and ending size 19.2. Generation 13. Lived 12 generations. Died: True. starvation
+Species with starting size 13 and ending size 20.766000000000002. Generation 13. Lived 28 generations. Died: True. starvation
+Species with starting size 20 and ending size 32.25. Generation 13. Lived 48 generations. Died: False. 
 
 
 Generation 14:
-Species with starting size 12 and ending size 23.75. Generation 14. Lived 8 generations. Died: True. starvation
-Species with starting size 15 and ending size 24.25. Generation 14. Lived 9 generations. Died: True. starvation
+Species with starting size 14 and ending size 20.35. Generation 14. Lived 13 generations. Died: True. starvation
+Species with starting size 11 and ending size 20.7228. Generation 14. Lived 28 generations. Died: True. starvation
+Species with starting size 17 and ending size 22.03. Generation 14. Lived 21 generations. Died: True. starvation
 
 
 Generation 15:
-Species with starting size 8 and ending size 25.75. Generation 15. Lived 10 generations. Died: True. starvation
-Species with starting size 6 and ending size 20.5. Generation 15. Lived 3 generations. Died: True. starvation
-Species with starting size 13 and ending size 26.910400000000003. Generation 15. Lived 15 generations. Died: True. starvation
+Species with starting size 16 and ending size 19.5. Generation 15. Lived 8 generations. Died: True. starvation
+Species with starting size 19 and ending size 19.1792. Generation 15. Lived 11 generations. Died: True. starvation
+Species with starting size 6 and ending size 21.3. Generation 15. Lived 24 generations. Died: True. starvation
+Species with starting size 18 and ending size 18.450000000000003. Generation 15. Lived 12 generations. Died: True. starvation
+Species with starting size 7 and ending size 26.2024. Generation 15. Lived 32 generations. Died: True. starvation
 
 
 Generation 16:
-Species with starting size 15 and ending size 22.75. Generation 16. Lived 7 generations. Died: True. starvation
+Species with starting size 18 and ending size 18.8604. Generation 16. Lived 9 generations. Died: True. starvation
+Species with starting size 7 and ending size 19.48. Generation 16. Lived 11 generations. Died: True. starvation
+Species with starting size 19 and ending size 24.331599999999998. Generation 16. Lived 31 generations. Died: True. starvation
+Species with starting size 5 and ending size 18.392. Generation 16. Lived 8 generations. Died: True. starvation
 
 
 Generation 17:
-Species with starting size 20 and ending size 41.75. Generation 17. Lived 26 generations. Died: True. starvation
+Species with starting size 17 and ending size 20.990000000000002. Generation 17. Lived 14 generations. Died: True. starvation
+Species with starting size 14 and ending size 23.5. Generation 17. Lived 21 generations. Died: True. starvation
+Species with starting size 11 and ending size 20.54. Generation 17. Lived 10 generations. Died: True. starvation
+Species with starting size 6 and ending size 20.69368. Generation 17. Lived 19 generations. Died: True. starvation
+Species with starting size 19 and ending size 19.206400000000002. Generation 17. Lived 9 generations. Died: True. starvation
+Species with starting size 18 and ending size 25.756. Generation 17. Lived 37 generations. Died: True. starvation
 
 
 Generation 18:
-Species with starting size 5 and ending size 20.75. Generation 18. Lived 4 generations. Died: True. starvation
-Species with starting size 9 and ending size 27.0. Generation 18. Lived 14 generations. Died: True. starvation
+Species with starting size 11 and ending size 19.22168. Generation 18. Lived 8 generations. Died: True. starvation
+Species with starting size 15 and ending size 24.5. Generation 18. Lived 25 generations. Died: True. starvation
+Species with starting size 15 and ending size 21.75. Generation 18. Lived 16 generations. Died: True. starvation
 
 
 Generation 19:
-Species with starting size 6 and ending size 34.25. Generation 19. Lived 21 generations. Died: True. starvation
-Species with starting size 8 and ending size 33.0. Generation 19. Lived 19 generations. Died: True. starvation
+Species with starting size 15 and ending size 20.5. Generation 19. Lived 10 generations. Died: True. starvation
+Species with starting size 9 and ending size 20.25. Generation 19. Lived 7 generations. Died: True. starvation
+Species with starting size 9 and ending size 19.156799999999997. Generation 19. Lived 8 generations. Died: True. starvation
+Species with starting size 10 and ending size 19.380000000000003. Generation 19. Lived 12 generations. Died: True. starvation
+Species with starting size 17 and ending size 20.721999999999998. Generation 19. Lived 24 generations. Died: True. starvation
+Species with starting size 12 and ending size 23.5. Generation 19. Lived 23 generations. Died: True. starvation
 
 
 Generation 20:
-Species with starting size 12 and ending size 26.25. Generation 20. Lived 12 generations. Died: True. starvation
-Species with starting size 8 and ending size 25.25. Generation 20. Lived 11 generations. Died: True. starvation
+Species with starting size 15 and ending size 20.48256. Generation 20. Lived 22 generations. Died: True. starvation
+Species with starting size 8 and ending size 22.3. Generation 20. Lived 19 generations. Died: True. starvation
+Species with starting size 19 and ending size 20.027472. Generation 20. Lived 12 generations. Died: True. starvation
+Species with starting size 12 and ending size 31.0. Generation 20. Lived 41 generations. Died: False. 
+Species with starting size 11 and ending size 20.474. Generation 20. Lived 11 generations. Died: True. starvation
 
 
 Generation 21:
-Species with starting size 16 and ending size 39.5. Generation 21. Lived 24 generations. Died: True. starvation
-Species with starting size 15 and ending size 35.0. Generation 21. Lived 21 generations. Died: True. starvation
+Species with starting size 15 and ending size 18.698. Generation 21. Lived 10 generations. Died: True. starvation
+Species with starting size 20 and ending size 29.0. Generation 21. Lived 40 generations. Died: False. 
+Species with starting size 10 and ending size 20.178672. Generation 21. Lived 10 generations. Died: True. starvation
+Species with starting size 19 and ending size 21.5. Generation 21. Lived 14 generations. Died: True. starvation
+Species with starting size 12 and ending size 21.0. Generation 21. Lived 15 generations. Died: True. starvation
 
 
 Generation 22:
-Species with starting size 20 and ending size 20.75. Generation 22. Lived 5 generations. Died: True. starvation
+Species with starting size 9 and ending size 23.4. Generation 22. Lived 30 generations. Died: True. starvation
+Species with starting size 14 and ending size 22.0. Generation 22. Lived 17 generations. Died: True. starvation
+Species with starting size 9 and ending size 20.483199999999997. Generation 22. Lived 17 generations. Died: True. starvation
+Species with starting size 20 and ending size 24.352000000000004. Generation 22. Lived 29 generations. Died: True. starvation
 
 
 Generation 23:
-Species with starting size 11 and ending size 35.75. Generation 23. Lived 21 generations. Died: True. starvation
-Species with starting size 6 and ending size 26.0. Generation 23. Lived 12 generations. Died: True. starvation
+Species with starting size 11 and ending size 20.7896. Generation 23. Lived 14 generations. Died: True. starvation
+Species with starting size 8 and ending size 21.5. Generation 23. Lived 14 generations. Died: True. starvation
+Species with starting size 20 and ending size 24.75. Generation 23. Lived 28 generations. Died: True. starvation
+Species with starting size 15 and ending size 21.5. Generation 23. Lived 15 generations. Died: True. starvation
 
 
 Generation 24:
-Species with starting size 13 and ending size 28.25. Generation 24. Lived 13 generations. Died: True. starvation
+Species with starting size 7 and ending size 18.4292. Generation 24. Lived 15 generations. Died: True. starvation
+Species with starting size 10 and ending size 19.6610048. Generation 24. Lived 13 generations. Died: True. starvation
+Species with starting size 8 and ending size 20.5164832. Generation 24. Lived 12 generations. Died: True. starvation
+Species with starting size 5 and ending size 20.25. Generation 24. Lived 9 generations. Died: True. starvation
+Species with starting size 8 and ending size 20.75. Generation 24. Lived 12 generations. Died: True. starvation
+Species with starting size 9 and ending size 24.75. Generation 24. Lived 28 generations. Died: True. starvation
 
 
 Generation 25:
-Species with starting size 6 and ending size 21.75. Generation 25. Lived 5 generations. Died: True. starvation
-Species with starting size 18 and ending size 20.5. Generation 25. Lived 4 generations. Died: True. starvation
+Species with starting size 14 and ending size 28.5492. Generation 25. Lived 36 generations. Died: False. 
+Species with starting size 16 and ending size 25.474. Generation 25. Lived 36 generations. Died: False. 
+Species with starting size 15 and ending size 22.0. Generation 25. Lived 18 generations. Died: True. starvation
+Species with starting size 14 and ending size 20.75. Generation 25. Lived 11 generations. Died: True. starvation
 
 
 Generation 26:
-Species with starting size 15 and ending size 23.25. Generation 26. Lived 7 generations. Died: True. starvation
+Species with starting size 14 and ending size 24.5. Generation 26. Lived 27 generations. Died: True. starvation
+Species with starting size 11 and ending size 23.25. Generation 26. Lived 22 generations. Died: True. starvation
+Species with starting size 10 and ending size 23.509999999999998. Generation 26. Lived 24 generations. Died: True. starvation
+Species with starting size 5 and ending size 21.75. Generation 26. Lived 13 generations. Died: True. starvation
+Species with starting size 5 and ending size 21.65. Generation 26. Lived 19 generations. Died: True. starvation
 
 
 Generation 27:
-Species with starting size 8 and ending size 21.25. Generation 27. Lived 4 generations. Died: True. starvation
+Species with starting size 16 and ending size 31.6916. Generation 27. Lived 34 generations. Died: False. 
+Species with starting size 17 and ending size 19.86411328. Generation 27. Lived 12 generations. Died: True. starvation
+Species with starting size 17 and ending size 20. Generation 27. Lived 11 generations. Died: True. starvation
 
 
 Generation 28:
-Species with starting size 18 and ending size 23.5. Generation 28. Lived 7 generations. Died: True. starvation
-Species with starting size 17 and ending size 24.25. Generation 28. Lived 8 generations. Died: True. starvation
+Species with starting size 5 and ending size 20.75. Generation 28. Lived 11 generations. Died: True. starvation
+Species with starting size 17 and ending size 24.948. Generation 28. Lived 27 generations. Died: True. starvation
+Species with starting size 11 and ending size 20.5. Generation 28. Lived 10 generations. Died: True. starvation
+Species with starting size 10 and ending size 23.5. Generation 28. Lived 21 generations. Died: True. starvation
 
 
 Generation 29:
-Species with starting size 14 and ending size 37.0. Generation 29. Lived 17 generations. Died: False. 
+Species with starting size 20 and ending size 21.5. Generation 29. Lived 16 generations. Died: True. starvation
+Species with starting size 19 and ending size 23.5. Generation 29. Lived 22 generations. Died: True. starvation
+Species with starting size 16 and ending size 18.45. Generation 29. Lived 10 generations. Died: True. starvation
+Species with starting size 10 and ending size 23.5. Generation 29. Lived 23 generations. Died: True. starvation
+Species with starting size 14 and ending size 27.0. Generation 29. Lived 32 generations. Died: False. 
 
 
 Generation 30:
-Species with starting size 10 and ending size 21.75. Generation 30. Lived 4 generations. Died: True. starvation
+Species with starting size 8 and ending size 20. Generation 30. Lived 9 generations. Died: True. starvation
+Species with starting size 19 and ending size 20.5. Generation 30. Lived 11 generations. Died: True. starvation
+Species with starting size 8 and ending size 21.0. Generation 30. Lived 10 generations. Died: True. starvation
+Species with starting size 16 and ending size 28.295107968. Generation 30. Lived 31 generations. Died: False. 
+Species with starting size 7 and ending size 21.0. Generation 30. Lived 11 generations. Died: True. starvation
+Species with starting size 11 and ending size 21.75. Generation 30. Lived 14 generations. Died: True. starvation
 
 
 Generation 31:
-Species with starting size 16 and ending size 32.25. Generation 31. Lived 15 generations. Died: True. starvation
+Species with starting size 13 and ending size 20. Generation 31. Lived 9 generations. Died: True. starvation
+Species with starting size 16 and ending size 22.0. Generation 31. Lived 17 generations. Died: True. starvation
+Species with starting size 9 and ending size 20.5. Generation 31. Lived 8 generations. Died: True. starvation
 
 
 Generation 32:
-Species with starting size 12 and ending size 22.25. Generation 32. Lived 5 generations. Died: True. starvation
-Species with starting size 19 and ending size 23.25. Generation 32. Lived 7 generations. Died: True. starvation
+Species with starting size 16 and ending size 20. Generation 32. Lived 9 generations. Died: True. starvation
+Species with starting size 8 and ending size 21.25. Generation 32. Lived 11 generations. Died: True. starvation
+Species with starting size 17 and ending size 19.88. Generation 32. Lived 9 generations. Died: True. starvation
+Species with starting size 5 and ending size 27.25. Generation 32. Lived 29 generations. Died: False. 
 
 
 Generation 33:
-Species with starting size 5 and ending size 33.5. Generation 33. Lived 13 generations. Died: False. 
-Species with starting size 15 and ending size 32.0. Generation 33. Lived 13 generations. Died: False. 
+Species with starting size 16 and ending size 20.25. Generation 33. Lived 8 generations. Died: True. starvation
+Species with starting size 7 and ending size 21.0. Generation 33. Lived 9 generations. Died: True. starvation
+Species with starting size 11 and ending size 20. Generation 33. Lived 8 generations. Died: True. starvation
+Species with starting size 20 and ending size 20.5. Generation 33. Lived 11 generations. Died: True. starvation
+Species with starting size 18 and ending size 22.0. Generation 33. Lived 16 generations. Died: True. starvation
 
 
 Generation 34:
+Species with starting size 19 and ending size 20.25. Generation 34. Lived 8 generations. Died: True. starvation
+Species with starting size 14 and ending size 21.75. Generation 34. Lived 14 generations. Died: True. starvation
+Species with starting size 19 and ending size 21.25. Generation 34. Lived 11 generations. Died: True. starvation
 
 
 Generation 35:
-Species with starting size 11 and ending size 20.5. Generation 35. Lived 2 generations. Died: True. starvation
-Species with starting size 13 and ending size 22.75. Generation 35. Lived 6 generations. Died: True. starvation
+Species with starting size 13 and ending size 20.25. Generation 35. Lived 8 generations. Died: True. starvation
+Species with starting size 17 and ending size 22.0. Generation 35. Lived 16 generations. Died: True. starvation
+Species with starting size 14 and ending size 24.5. Generation 35. Lived 24 generations. Died: True. starvation
 
 
 Generation 36:
-Species with starting size 18 and ending size 30.0. Generation 36. Lived 10 generations. Died: False. 
+Species with starting size 12 and ending size 20. Generation 36. Lived 7 generations. Died: True. starvation
+Species with starting size 12 and ending size 20. Generation 36. Lived 7 generations. Died: True. starvation
+Species with starting size 10 and ending size 27.25. Generation 36. Lived 25 generations. Died: False. 
+Species with starting size 16 and ending size 20.75. Generation 36. Lived 8 generations. Died: True. starvation
+Species with starting size 8 and ending size 20.5. Generation 36. Lived 9 generations. Died: True. starvation
 
 
 Generation 37:
+Species with starting size 6 and ending size 20.25. Generation 37. Lived 7 generations. Died: True. starvation
+Species with starting size 17 and ending size 22.0. Generation 37. Lived 14 generations. Died: True. starvation
+Species with starting size 14 and ending size 24.75. Generation 37. Lived 23 generations. Died: True. starvation
+Species with starting size 19 and ending size 20.828. Generation 37. Lived 10 generations. Died: True. starvation
 
 
 Generation 38:
-Species with starting size 11 and ending size 21.25. Generation 38. Lived 3 generations. Died: True. starvation
+Species with starting size 12 and ending size 20.5. Generation 38. Lived 8 generations. Died: True. starvation
+Species with starting size 10 and ending size 20.75. Generation 38. Lived 9 generations. Died: True. starvation
+Species with starting size 9 and ending size 21.75. Generation 38. Lived 12 generations. Died: True. starvation
+Species with starting size 20 and ending size 21.75. Generation 38. Lived 15 generations. Died: True. starvation
 
 
 Generation 39:
-Species with starting size 11 and ending size 22.25. Generation 39. Lived 4 generations. Died: True. starvation
-Species with starting size 19 and ending size 29.0. Generation 39. Lived 7 generations. Died: False. 
+Species with starting size 10 and ending size 25.0. Generation 39. Lived 22 generations. Died: False. 
+Species with starting size 7 and ending size 22.0. Generation 39. Lived 14 generations. Died: True. starvation
+Species with starting size 18 and ending size 23.75. Generation 39. Lived 20 generations. Died: True. starvation
+Species with starting size 9 and ending size 22.0. Generation 39. Lived 14 generations. Died: True. starvation
 
 
 Generation 40:
+Species with starting size 16 and ending size 24.5. Generation 40. Lived 21 generations. Died: False. 
+Species with starting size 16 and ending size 24.25. Generation 40. Lived 21 generations. Died: False. 
+Species with starting size 10 and ending size 21.75. Generation 40. Lived 14 generations. Died: True. starvation
 
 
 Generation 41:
+Species with starting size 7 and ending size 22.25. Generation 41. Lived 14 generations. Died: True. starvation
+Species with starting size 20 and ending size 21.75. Generation 41. Lived 13 generations. Died: True. starvation
+Species with starting size 5 and ending size 24.25. Generation 41. Lived 20 generations. Died: False. 
 
 
 Generation 42:
+Species with starting size 6 and ending size 21.5. Generation 42. Lived 11 generations. Died: True. starvation
+Species with starting size 20 and ending size 21.75. Generation 42. Lived 15 generations. Died: True. starvation
+Species with starting size 10 and ending size 23.75. Generation 42. Lived 19 generations. Died: False. 
 
 
 Generation 43:
-Species with starting size 20 and ending size 20. Generation 43. Lived 1 generations. Died: True. hunted
+Species with starting size 20 and ending size 22.25. Generation 43. Lived 15 generations. Died: True. starvation
+Species with starting size 16 and ending size 21.0. Generation 43. Lived 12 generations. Died: True. starvation
+Species with starting size 18 and ending size 24.0. Generation 43. Lived 18 generations. Died: False. 
+Species with starting size 18 and ending size 20. Generation 43. Lived 8 generations. Died: True. starvation
+Species with starting size 14 and ending size 21.75. Generation 43. Lived 13 generations. Died: True. starvation
 
 
 Generation 44:
+Species with starting size 11 and ending size 21.25. Generation 44. Lived 10 generations. Died: True. starvation
+Species with starting size 11 and ending size 22.0. Generation 44. Lived 14 generations. Died: True. starvation
 
 
 Generation 45:
+Species with starting size 7 and ending size 23.0. Generation 45. Lived 16 generations. Died: False. 
+Species with starting size 6 and ending size 20. Generation 45. Lived 7 generations. Died: True. starvation
+
+
+Generation 46:
+Species with starting size 6 and ending size 21.0. Generation 46. Lived 9 generations. Died: True. starvation
+Species with starting size 12 and ending size 20. Generation 46. Lived 7 generations. Died: True. starvation
+Species with starting size 19 and ending size 24.75. Generation 46. Lived 15 generations. Died: False. 
+
+
+Generation 47:
+Species with starting size 17 and ending size 22.0. Generation 47. Lived 14 generations. Died: False. 
+Species with starting size 14 and ending size 22.25. Generation 47. Lived 14 generations. Died: False. 
+Species with starting size 5 and ending size 23.5. Generation 47. Lived 14 generations. Died: False. 
+Species with starting size 17 and ending size 22.5. Generation 47. Lived 14 generations. Died: False. 
+
+
+Generation 48:
+Species with starting size 15 and ending size 20.25. Generation 48. Lived 7 generations. Died: True. starvation
+Species with starting size 20 and ending size 23.25. Generation 48. Lived 13 generations. Died: False. 
+
+
+Generation 49:
+Species with starting size 11 and ending size 21.0. Generation 49. Lived 9 generations. Died: True. starvation
+Species with starting size 17 and ending size 20.5. Generation 49. Lived 9 generations. Died: True. starvation
+Species with starting size 19 and ending size 20.75. Generation 49. Lived 9 generations. Died: True. starvation
+
+
+Generation 50:
+Species with starting size 16 and ending size 21.75. Generation 50. Lived 11 generations. Died: False. 
+
+
+Generation 51:
+Species with starting size 17 and ending size 22.25. Generation 51. Lived 10 generations. Died: False. 
+Species with starting size 10 and ending size 21.5. Generation 51. Lived 10 generations. Died: False. 
+
+
+Generation 52:
+Species with starting size 9 and ending size 21.0. Generation 52. Lived 9 generations. Died: False. 
+Species with starting size 6 and ending size 23.75. Generation 52. Lived 9 generations. Died: False. 
+Species with starting size 16 and ending size 21.75. Generation 52. Lived 9 generations. Died: False. 
+Species with starting size 13 and ending size 21.25. Generation 52. Lived 9 generations. Died: False. 
+
+
+Generation 53:
+Species with starting size 13 and ending size 20.75. Generation 53. Lived 8 generations. Died: False. 
+
+
+Generation 54:
+Species with starting size 20 and ending size 20.5. Generation 54. Lived 7 generations. Died: False. 
+
+
+Generation 55:
+Species with starting size 11 and ending size 21.5. Generation 55. Lived 6 generations. Died: False. 
+Species with starting size 9 and ending size 20.75. Generation 55. Lived 6 generations. Died: False. 
+Species with starting size 17 and ending size 21.5. Generation 55. Lived 6 generations. Died: False. 
+
+
+Generation 56:
+Species with starting size 10 and ending size 20.5. Generation 56. Lived 5 generations. Died: False. 
+
+
+Generation 57:
+Species with starting size 18 and ending size 20. Generation 57. Lived 4 generations. Died: False. 
+Species with starting size 6 and ending size 20. Generation 57. Lived 4 generations. Died: False. 
+Species with starting size 5 and ending size 20.75. Generation 57. Lived 4 generations. Died: False. 
+
+
+Generation 58:
+
+
+Generation 59:
+Species with starting size 16 and ending size 20. Generation 59. Lived 2 generations. Died: False. 
+
+
+Generation 60:
+Species with starting size 18 and ending size 20. Generation 60. Lived 1 generations. Died: False. 
+Species with starting size 15 and ending size 20. Generation 60. Lived 1 generations. Died: False. 
 
 
