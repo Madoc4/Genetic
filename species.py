@@ -143,10 +143,10 @@ class Species(pygame.sprite.Sprite):
 
     def action(self):
         if self.dest == 'food':
-            self.food += 100
+            self.food += 150
             self.size += 0.25
         elif self.dest == 'water':
-            self.water += 100
+            self.water += 150
             self.size += 0.25 
         self.food_requirement += 2
         self.water_requirement += 2

@@ -16,6 +16,7 @@ for line in lines:
         for i in range(birth, death+1):
             generations[i] += 1
 
+print(generations)
 plt.scatter(generations.keys(), generations.values(), color='blue')
 plt.xlabel('Generation')
 plt.ylabel('Number of Species')
