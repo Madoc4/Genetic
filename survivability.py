@@ -31,7 +31,7 @@ for size, data in species_data.items():
     else:
         survival_rate = data['Survived'] / total_species if total_species > 0 else 0
     survival_rates[size] = survival_rate
-print(survival_rates)
+
 sizes = list(survival_rates.keys())
 survival_rates_values = list(survival_rates.values())
 
