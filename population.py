@@ -10,7 +10,6 @@ for line in lines:
     num = int(line.split(' ')[-1].strip())
     generations[g] = num
 
-print(generations)
 plt.scatter(generations.keys(), generations.values(), color='blue')
 plt.xlabel('Generation')
 plt.ylabel('Number of Species')
